@@ -1,3 +1,10 @@
+# svelte-mini-modal
+
+Simple small modal component for svelte.
+
+## Usage
+
+```svelte
 <script>
   import Modal from "svelte-mini-modal/lib/Modal.svelte";
 
@@ -26,3 +33,4 @@
     </div>
   </Modal>
 </div>
+```
