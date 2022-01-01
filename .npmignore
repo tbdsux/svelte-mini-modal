@@ -1,0 +1,7 @@
+src
+example
+node_modules
+.vscode
+
+*.tgz
+*.config.js
